@@ -14,14 +14,15 @@ const Header = () => {
     return (
         <div className='flex'>
             <div className="navbar bg-neutral text-neutral-content ">
-                 <Link className="btn btn-ghost normal-case text-xl"  to="/">Sa Cafe Product</Link>   
+                 <Link className="btn btn-ghost normal-case text-xl"  to="/">Digital Online Vot</Link>   
             </div>
             <div className='navbar bg-neutral text-neutral-content  text-right  '>
                 <Link className="btn btn-ghost normal-case text-xl" to="/">Home</Link>
-                <Link className="btn btn-ghost normal-case text-xl" to="/product">Product</Link>
-                <Link className="btn btn-ghost normal-case text-xl" to="/orders">Orders</Link>
+                <Link className="btn btn-ghost normal-case text-xl" to="/product">Candidate</Link>
+                <Link className="btn btn-ghost normal-case text-xl" to="/orders">Voter</Link>
                 <Link className="btn btn-ghost normal-case text-xl" to="/contract">Contract</Link>
-                <Link className="btn btn-ghost normal-case text-xl" to="/login">Login</Link>
+                <Link className="btn btn-ghost normal-case text-xl" to="/contract">Review</Link>
+                {/* <Link className="btn btn-ghost normal-case text-xl" to="/login">Login</Link> */}
                 <Link className="btn btn-ghost normal-case text-xl" to="/register">Register</Link>
                 {
                     user? <>

@@ -5,12 +5,12 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDgPLRGZw7lydVsHRh_R3K98eubjnmGuXA",
-  authDomain: "chef-recipe-hunter-clien-d1971.firebaseapp.com",
-  projectId: "chef-recipe-hunter-clien-d1971",
-  storageBucket: "chef-recipe-hunter-clien-d1971.appspot.com",
-  messagingSenderId: "487998089621",
-  appId: "1:487998089621:web:263efbd37c233f2ac92e9c"
+  apiKey: "AIzaSyBLAk6SMksQZ5kL0dEssiGEBItYFoWHmYU",
+  authDomain: "digital-online-voting-sy-87d46.firebaseapp.com",
+  projectId: "digital-online-voting-sy-87d46",
+  storageBucket: "digital-online-voting-sy-87d46.appspot.com",
+  messagingSenderId: "999541665713",
+  appId: "1:999541665713:web:0d6a7ee2f9def91fe89790"
 };
 
 // Initialize Firebase

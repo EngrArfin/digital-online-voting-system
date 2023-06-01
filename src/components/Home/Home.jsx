@@ -8,6 +8,7 @@ const Home = () => {
         <div>
             <h2>
                 This is home: {user && <span>{user.displayName}</span>}
+                
             </h2>
         </div>
     );

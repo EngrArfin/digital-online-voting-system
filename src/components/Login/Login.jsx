@@ -51,13 +51,13 @@ const Login = () => {
                                 </label>
                             </div>
                             <div className="form-control mt-6">
-                                <button className="btn btn-primary">Login</button>
+                                <button className="btn btn-primary">LogIn</button>
                                
                             </div>
                         </form>
                         <p className='mb-4 ml-8'>
                             <Link to="/register" className="level-text-alt link-hover">
-                                New Client? Please Register
+                                New Voter? Please Register !
                             </Link>     
                         </p>                       
                     </div>
