@@ -18,7 +18,7 @@ const Home = () => {
       <p className="py-6"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. <br />
        Modi officiis dolorum, nihil iure re <br />
        obcaecati inventore harum perspiciatis aspernatur, magnam et ipsam error. <br /> .</p>
-      <button className="btn btn-primary">Get Started</button>
+      <button className="btn btn-primary">Go for Vote</button>
     </div>
   </div>
 </div>
@@ -51,7 +51,93 @@ const Home = () => {
 </div>
 
 {/* Election Comession photo */}
+<div>
+<div className='flex'>
+<div className="card card-compact w-96 bg-base-100 shadow-xl">
+  <figure><img src="/public/voting13.jpg" alt="Shoes" /></figure>
+  <div className="card-body">
+    <h2 className="card-title">Vote!</h2>
+    <p>If a dog chews shoes whose shoes does he choose?</p>
+    <div className="card-actions justify-end">
+      <button className="btn btn-primary">Press Vote</button>
+    </div>
+  </div>
+</div>
+<div className="card card-compact w-96 bg-base-100 shadow-xl">
+  <figure><img src="/public/voting13.jpg" alt="Shoes" /></figure>
+  <div className="card-body">
+    <h2 className="card-title">Vote!</h2>
+    <p>If a dog chews shoes whose shoes does he choose?</p>
+    <div className="card-actions justify-end">
+      <button className="btn btn-primary">Press Vote</button>
+    </div>
+  </div>
+</div>
+<div className="card card-compact w-96 bg-base-100 shadow-xl">
+  <figure><img src="/public/voting13.jpg" alt="Shoes" /></figure>
+  <div className="card-body">
+    <h2 className="card-title">Vote!</h2>
+    <p>If a dog chews shoes whose shoes does he choose?</p>
+    <div className="card-actions justify-end">
+      <button className="btn btn-primary">Press Vote</button>
+    </div>
+  </div>
+</div>
+<div className="card card-compact w-96 bg-base-100 shadow-xl">
+  <figure><img src="/public/voting13.jpg" alt="Shoes" /></figure>
+  <div className="card-body">
+    <h2 className="card-title">Vote!</h2>
+    <p>If a dog chews shoes whose shoes does he choose?</p>
+    <div className="card-actions justify-end">
+      <button className="btn btn-primary">Press Vote</button>
+    </div>
+  </div>
+</div>
+</div>
+<div className='flex'>
+<div className="card card-compact w-96 bg-base-100 shadow-xl">
+  <figure><img src="/public/voting13.jpg" alt="Shoes" /></figure>
+  <div className="card-body">
+    <h2 className="card-title">Vote!</h2>
+    <p>If a dog chews shoes whose shoes does he choose?</p>
+    <div className="card-actions justify-end">
+      <button className="btn btn-primary">Press Vote</button>
+    </div>
+  </div>
+</div>
+<div className="card card-compact w-96 bg-base-100 shadow-xl">
+  <figure><img src="/public/voting13.jpg" alt="Shoes" /></figure>
+  <div className="card-body">
+    <h2 className="card-title">Vote!</h2>
+    <p>If a dog chews shoes whose shoes does he choose?</p>
+    <div className="card-actions justify-end">
+      <button className="btn btn-primary">Press Vote</button>
+    </div>
+  </div>
+</div>
+<div className="card card-compact w-96 bg-base-100 shadow-xl">
+  <figure><img src="/public/voting13.jpg" alt="Shoes" /></figure>
+  <div className="card-body">
+    <h2 className="card-title">Vote!</h2>
+    <p>If a dog chews shoes whose shoes does he choose?</p>
+    <div className="card-actions justify-end">
+      <button className="btn btn-primary">Press Vote</button>
+    </div>
+  </div>
+</div>
+<div className="card card-compact w-96 bg-base-100 shadow-xl">
+  <figure><img src="/public/voting13.jpg" alt="Shoes" /></figure>
+  <div className="card-body">
+    <h2 className="card-title">Vote!</h2>
+    <p>If a dog chews shoes whose shoes does he choose?</p>
+    <div className="card-actions justify-end">
+      <button className="btn btn-primary">Press Vote</button>
+    </div>
+  </div>
+</div>
+</div>
 
+</div>
 <div className='flex'>
 <div className="card card-compact w-96 bg-base-100 shadow-xl">
   <figure><img src="/public/voting13.jpg" alt="Shoes" /></figure>

@@ -20,8 +20,8 @@ const Header = () => {
                 <Link className="btn btn-ghost normal-case text-xl" to="/">Home</Link>
                 <Link className="btn btn-ghost normal-case text-xl" to="/product">Candidate</Link>
                 <Link className="btn btn-ghost normal-case text-xl" to="/orders">Voter</Link>
+                <Link className="btn btn-ghost normal-case text-xl" to="/contract">Result </Link>
                 <Link className="btn btn-ghost normal-case text-xl" to="/contract">Contract</Link>
-                <Link className="btn btn-ghost normal-case text-xl" to="/contract">Review</Link>
                 {/* <Link className="btn btn-ghost normal-case text-xl" to="/login">Login</Link> */}
                 <Link className="btn btn-ghost normal-case text-xl" to="/register">Register</Link>
                 {
